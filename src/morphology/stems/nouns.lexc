@@ -3,6 +3,6 @@
 !! Nouns in UNDEFINED language are things.
 
 LEXICON Nouns
-noun    Cases   ;
+hap:hap Cases ; ! "рука"
 
 ! vim: set ft=xfst-lexc:
