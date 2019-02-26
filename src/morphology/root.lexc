@@ -169,6 +169,8 @@ LEXICON Root   !!= * @CODE@
 0   Pronouns    ;
 0   Numerals    ;
 0   Prefixes    ;
+    Punctuation ;
+    Symbols     ;
 
 ! vim: set ft=xfst-lexc:
 
