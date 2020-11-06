@@ -2,6 +2,8 @@
 !  ---------------
 !! The Kalmyk language nouns inflect in cases.
 
+LEXICON Cases # ; ! fix this
+
 LEXICON CASE1
 +Nom:     #   ;
 +Gen:     #   ;
