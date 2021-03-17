@@ -1,15 +1,9 @@
 [What is this?|WhatIsThis.html]
 
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/startup-langs/xal/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/startup-langs/xal/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/startup-langs/xal/src/syntax] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/startup-langs/xal/src/phonology/xal-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/startup-langs/xal/test/src/fst/]
 
+ 
 !!! Grammatical issues
 
 * [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/startup-langs/xal/src/fst/root.lexc]   
