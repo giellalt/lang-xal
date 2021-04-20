@@ -1,6 +1,10 @@
 The Kalmyk morphology and tools
 ==========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/issues)
+[![Build Status](https://github.com/giellalt/lang-xal/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-xal/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-xal)](https://raw.githubusercontent.com/giellalt/lang-xal/develop/LICENSE)
+
 This repository contains finite state source files for the Kalmyk language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
@@ -8,10 +12,6 @@ licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-xal/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/issues)
-[![Build Status](https://github.com/giellalt/lang-xal/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-xal/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-xal)](https://raw.githubusercontent.com/giellalt/lang-xal/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-xal)
 for the Kalmyk language by using the [Divvun Installer](http://divvun.no)
