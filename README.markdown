@@ -10,7 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/issues)
- [![Build Status](https://github.com/giellalt/lang-xal/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-xal/actions)
+[![Build Status](https://github.com/giellalt/lang-xal/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-xal/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-xal)](https://raw.githubusercontent.com/giellalt/lang-xal/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-xal)
 for the Kalmyk language by using the [Divvun Installer](http://divvun.no)
