@@ -1,7 +1,7 @@
 # Kalmyk documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-xal)](https://raw.githubusercontent.com/giellalt/lang-xal/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-xal)](https://raw.githubusercontent.com/giellalt/lang-xal/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/issues)
 [![Build status](https://github.com/giellalt/lang-xal/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-xal/actions)
 
