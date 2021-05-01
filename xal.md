@@ -1,3 +1,67 @@
+Noun inflection
+The Kalmyk language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proper noun inflection
+The Kalmyk language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Kalmyk language adjectives compare.
+
+
+
+Verb inflection
+The Kalmyk language verbs inflect in persons.
+
+
+
+=================================== !
+The Kalmyk morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 # Kalmyk morphological analyser                      !
 
@@ -146,6 +210,86 @@ given the proper use of these flags.
 The word forms in Kalmyk start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
+
+Nouns
+Nouns in the Kalmyk language are things.
+
+
+
+Prefixes
+Prefixes in the Kalmyk language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Kalmyk language are references to things.
+
+
+Adjectives
+Adjectives in the Kalmyk language describe things.
+
+
+Verbs
+Verbs in the Kalmyk language are actions.
+
+
+Numerals
+Numerals in the Kalmyk language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
