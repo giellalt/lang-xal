@@ -1,42 +1,27 @@
-Noun inflection
-The Kalmyk language nouns inflect in cases.
+Nouns
+Nouns in the Kalmyk language are things.
 
 
 
+Numerals
+Numerals in the Kalmyk language are numbers.
+
+
+Verbs
+Verbs in the Kalmyk language are actions.
+
+
+Prefixes
+Prefixes in the Kalmyk language are bound to beginning of other words.
 
 
 
+Adjectives
+Adjectives in the Kalmyk language describe things.
 
 
-
-
-
-
-
-
-
-
-Proper noun inflection
-The Kalmyk language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-Adjective inflection
-The Kalmyk language adjectives compare.
-
-
-
-Verb inflection
-The Kalmyk language verbs inflect in persons.
-
+Pronouns
+Pronouns in the Kalmyk language are references to things.
 
 
 =================================== !
@@ -62,6 +47,47 @@ The Kalmyk morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
+
+# Symbol affixes
+
+
+
+
+
+Noun inflection
+The Kalmyk language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proper noun inflection
+The Kalmyk language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+Verb inflection
+The Kalmyk language verbs inflect in persons.
+
+
+
+Adjective inflection
+The Kalmyk language adjectives compare.
+
+
+
 
 # Kalmyk morphological analyser                      !
 
@@ -211,30 +237,20 @@ The word forms in Kalmyk start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 
-Nouns
-Nouns in the Kalmyk language are things.
 
 
 
-Prefixes
-Prefixes in the Kalmyk language are bound to beginning of other words.
+We describe here how abbreviations are in Kalmyk are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-
-Pronouns
-Pronouns in the Kalmyk language are references to things.
-
-
-Adjectives
-Adjectives in the Kalmyk language describe things.
-
-
-Verbs
-Verbs in the Kalmyk language are actions.
-
-
-Numerals
-Numerals in the Kalmyk language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -290,20 +306,4 @@ Numerals in the Kalmyk language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Kalmyk are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
