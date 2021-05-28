@@ -605,30 +605,45 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Kalmyk language are things.
+Verb inflection
+The Kalmyk language verbs inflect in persons.
 
 
 
-Numerals
-Numerals in the Kalmyk language are numbers.
-
-
-Verbs
-Verbs in the Kalmyk language are actions.
-
-
-Prefixes
-Prefixes in the Kalmyk language are bound to beginning of other words.
+Proper noun inflection
+The Kalmyk language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
 
 
-Adjectives
-Adjectives in the Kalmyk language describe things.
+Adjective inflection
+The Kalmyk language adjectives compare.
 
 
-Pronouns
-Pronouns in the Kalmyk language are references to things.
+
+Noun inflection
+The Kalmyk language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Symbol affixes
+
+
+
 
 
 =================================== !
@@ -654,44 +669,29 @@ The Kalmyk morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
-
-# Symbol affixes
-
-
+Verbs
+Verbs in the Kalmyk language are actions.
 
 
-
-Noun inflection
-The Kalmyk language nouns inflect in cases.
-
+Pronouns
+Pronouns in the Kalmyk language are references to things.
 
 
+Numerals
+Numerals in the Kalmyk language are numbers.
 
 
+Adjectives
+Adjectives in the Kalmyk language describe things.
 
 
-
-
-
-
+Prefixes
+Prefixes in the Kalmyk language are bound to beginning of other words.
 
 
 
-
-
-Proper noun inflection
-The Kalmyk language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-Verb inflection
-The Kalmyk language verbs inflect in persons.
-
-
-
-Adjective inflection
-The Kalmyk language adjectives compare.
+Nouns
+Nouns in the Kalmyk language are things.
 
 
 
@@ -847,22 +847,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Kalmyk are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -913,6 +897,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Kalmyk are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
