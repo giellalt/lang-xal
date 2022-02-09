@@ -1,8 +1,6 @@
 
 # Kalmyk morphological analyser                      !
 
-
-
 # Definitions for Multichar_Symbols
 
 ## Analysis symbols
@@ -53,7 +51,6 @@ Other verb forms are
 
 * +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess  
 
-
 *  +ABBR +ACR  
 * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
@@ -75,7 +72,6 @@ Question and Focus particles:
 
 *  +Qst +Foc  
 
-
 Semantics are classified with
 
 *  +Mal +Fem +Sur  
@@ -96,13 +92,11 @@ Semantics are classified with
 *  +Veh 
 *  +Clth 
 
-
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
 *  +V→N +V→V +V→A  
 *  +Der/xxx   
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -146,6 +140,9 @@ given the proper use of these flags.
 The word forms in Kalmyk start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-xal/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-xal/blob/main/src/fst/root.lexc)</small>
+
+---
+
