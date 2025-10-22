@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-xal?label=CI)](https://builds.giellalt.org/pipelines/lang-xal/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/kalm1243)
 
 This page documents the work on the **Kalmyk language model**. 
 
