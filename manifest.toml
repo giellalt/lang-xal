@@ -1,6 +1,3 @@
-spellername = "Kalmyk"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "D4D590FB-87AD-4C76-8EEE-A8AF71134D8A", kind = "nsis" },
     { value = "CC014535-47B6-4CF9-BF04-582EE17D641A", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Kalmyk"
+version = "0.1.1"
+
+[package.grammar]
+name = "Kalmyk"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Kalmyk"
+version = "0.1.0"
