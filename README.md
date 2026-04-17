@@ -1,12 +1,12 @@
 The Kalmyk morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xal%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xal%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xal%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-xal%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-xal)](https://github.com/giellalt/lang-xal/blob/main/LICENSE)
-[![Doc Build Status](https://github.com/giellalt/lang-xal/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-xal/actions)
-[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-xal/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-xal/main/latest)
+[![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-xal/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-xal/actions/workflows/docs.yml)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-xal?logo=buildkite&label=CoreCI)](https://builds.giellalt.org/pipelines/lang-xal/builds/latest)
 
 Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
 
